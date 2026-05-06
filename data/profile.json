@@ -1,0 +1,21 @@
+{
+  "name": "Sagnik YourLastName",
+  "title": "Researcher | Software Engineer",
+  "summary": "I build scalable systems and publish research in machine learning and systems. I'm open to collaborations and roles in ML/AI engineering.",
+  "about": "Experienced researcher and engineer with a background in machine learning, data systems, and software engineering. I enjoy turning ideas into production-ready solutions and writing clear, reproducible research.",
+  "email": "you@example.com",
+  "location": "City, Country",
+  "resume": "assets/resume.pdf",
+  "skills": ["Python","Machine Learning","TensorFlow","PyTorch","Data Engineering","React","Docker"],
+  "projects": [
+    {"title":"Project Alpha","description":"Short description of Project Alpha with impact and tech used.","link":"https://yourliveproject.example","repo":"https://github.com/your/repo-alpha"},
+    {"title":"Project Beta","description":"Short description of Project Beta.","repo":"https://github.com/your/repo-beta"}
+  ],
+  "publications": [
+    {"title":"Paper Title","venue":"Conference Name","year":2024,"link":"https://doi.org/xx.xxxx/xxxxx"}
+  ],
+  "social": [
+    {"label":"GitHub","link":"https://github.com/your"},
+    {"label":"LinkedIn","link":"https://linkedin.com/in/your"}
+  ]
+}
